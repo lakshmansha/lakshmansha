@@ -1,6 +1,6 @@
 # Hey friends!
 
-## I am Lakshman
+## I'm Lakshman
 
 - Passionate about Learning and Implementing Technologies.
 - Likes to Share Wisdom with others.
