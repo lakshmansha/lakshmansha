@@ -7,8 +7,8 @@
 - Certified Microsoft Azure Developer Associate. 
 
 I share my knowledge via Blogs as below,
-- Stable & Scale - [https://stablescale.blogspot.com](https://stablescale.blogspot.com/) 
-- Angular Best Practices - [https://angular-best-practices.blogspot.com](https://angular-best-practices.blogspot.com/)
+- Stable & Scale - [http://blog.stablescale.com](http://blog.stablescale.com/) 
+- Angular Best Practices - [http://blog.angularbestpractices.in/](http://blog.angularbestpractices.in/)
 
 Also, I make Youtube Videos via Channel below, 
 - Stable & Scale - [Check this out](https://www.youtube.com/channel/UCbAh22SGEu6mA2O6mQbEkEQ)
